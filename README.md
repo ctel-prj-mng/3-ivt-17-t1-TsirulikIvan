@@ -24,3 +24,4 @@ https://github.com/ctel-prj-mng/1-gantt-60218-TsirulikIvan
 5. Fluid представляет собой мобильное приложение для прототипирования. В среде, кто знает о нем, существует много мнений об этом онлайн-инструменте, и многие пользователи говорят, что это действительно очень быстро, удобно и интуитивно понятно.
 ![Fluid Screen](https://miro.medium.com/max/725/0*UCMNmrQfoFvmICp0.)
 ### Задание 2
+https://docs.google.com/presentation/d/1ms8zGMgYfWq_1LChh_jTfTtowTAXTxUp5yZ9Tc0XmsI/edit?usp=sharing
